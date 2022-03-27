@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b87fe5e2-ffe6-c108-99e3-0a3ae22a6a1c
 resourcetype: Document
 title: 14.54 Fall 2006 Midterm Exam 2004
 uid: 1585ed7d-40d6-11b2-f55f-c15d0951bdfc

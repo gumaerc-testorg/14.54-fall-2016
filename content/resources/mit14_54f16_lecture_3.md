@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 0a3cf0ed-6939-75d3-35fc-a7aad8469f3b
 resourcetype: Document
 title: '14.54 F16 Lecture Slides: Preferences and Demand'
 uid: 4e8cda34-6e64-6a35-6d89-fa2b45a89494

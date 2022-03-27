@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: dc4510de-5b49-2561-cc98-330d1f9cc5fb
 resourcetype: Document
 title: 14.54 F16 Recitation 3 Notes
 uid: 5aa4f985-3fcb-22a2-4d62-ac9bc59030a7

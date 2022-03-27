@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 0a3cf0ed-6939-75d3-35fc-a7aad8469f3b
 resourcetype: Document
 title: '14.54 F16 Lecture Slides: Offshoring: Do Old Rules Still Apply?'
 uid: 3aa16594-efb2-7467-1174-06a9c5d85e44

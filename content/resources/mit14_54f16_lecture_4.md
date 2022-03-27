@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 0a3cf0ed-6939-75d3-35fc-a7aad8469f3b
 resourcetype: Document
 title: '14.54 F16 Lecture Slides: Exchange Economies'
 uid: 9ecd0f1f-d357-4cb7-c5f2-563df7c7ddcb

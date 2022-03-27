@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 0a3cf0ed-6939-75d3-35fc-a7aad8469f3b
 resourcetype: Document
 title: '14.54 F16 Lecture Slides: The Basics'
 uid: 85caae23-21dd-d5f2-a175-1f72bd3ceb28

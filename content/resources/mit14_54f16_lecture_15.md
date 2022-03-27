@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 0a3cf0ed-6939-75d3-35fc-a7aad8469f3b
 resourcetype: Document
 title: '14.54 F16 Lecture Slides: Heckscher-Ohlin Model of Trade (III)'
 uid: 5ae194a5-cb93-5e71-f300-aad75c6ae1e3

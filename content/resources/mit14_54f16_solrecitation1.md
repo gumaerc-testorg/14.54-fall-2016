@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: dc4510de-5b49-2561-cc98-330d1f9cc5fb
 resourcetype: Document
 title: 14.54 F16 Recitation 1 Solutions
 uid: f71ca28a-6a60-cbc1-90c1-4fd848f2cfd9

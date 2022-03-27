@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ecf689ef-7254-b53d-403f-7fde79bbd5e5
 resourcetype: Document
 title: 14.54 Fall 2006 Problem Set 3
 uid: f79f96af-b9d2-9b4b-685f-7b9186f718bb
