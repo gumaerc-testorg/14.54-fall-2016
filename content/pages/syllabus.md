@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains logistical and basic information about the course
+  such as meeting times, prerequisites, and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
