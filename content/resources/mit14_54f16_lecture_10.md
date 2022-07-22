@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/d3ca5a729578d662933f8737a3f6a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Production Functions'
 uid: d3ca5a72-9578-d662-933f-8737a3f6a630
 ---
 This resource contains information regarding international trade lecture slides: Production functions.
-

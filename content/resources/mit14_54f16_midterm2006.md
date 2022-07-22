@@ -5,6 +5,7 @@ file: /courses/14-54-international-trade-fall-2016/79f890fc72e42d0f5347e0e27763f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.54 Fall 2006 Midterm Exam 2006
 uid: 79f890fc-72e4-2d0f-5347-e0e27763f4b0
 ---
 This files contains the information regarding the midterm exam 2006.
-

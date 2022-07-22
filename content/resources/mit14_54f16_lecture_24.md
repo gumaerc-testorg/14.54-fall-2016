@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/22b2a74e02bf814261618e7eebc2d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Factor Mobility (II): Multinational Firms'
 uid: 22b2a74e-02bf-8142-6161-8e7eebc2d7bf
 ---
 This resource contains information regarding international trade lecture slides: Factor mobility (II): Multinational firms.
-

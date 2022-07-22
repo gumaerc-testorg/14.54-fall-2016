@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/45e50cc4e70fd7e965291432c4fd7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Trade Policy (II): Other Policy Instruments'
 uid: 45e50cc4-e70f-d7e9-6529-1432c4fd70f4
 ---
 This resource contains information regarding international trade lecture slides: Trade policy (II): Other policy instruments.
-

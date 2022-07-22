@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/58899f85435a5eb59761e50afb0b8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Specific Factors Model (II)'
 uid: 58899f85-435a-5eb5-9761-e50afb0b858c
 ---
 This resource contains information regarding international trade lecture slides: Specific factors model (II).
-

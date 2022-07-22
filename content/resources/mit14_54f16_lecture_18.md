@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/86bb7cf1a6820b35200daffd497d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Consequences of Increasing Returns: Theory and
 uid: 86bb7cf1-a682-0b35-200d-affd497d5403
 ---
 This resource contains information regarding international trade lecture slides: Consequences of increasing returns: Theory and evidence.
-

@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/827530e787786fd656a98a585e58c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Trade Policy (I): Tariffs'
 uid: 827530e7-8778-6fd6-56a9-8a585e58c86e
 ---
 This resource contains information regarding international trade lecture slides: Trade policy (I): Tariffs.
-

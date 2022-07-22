@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/e20d74d6dcc8cc4420fefa9391528
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '14.54 F16 Lecture Slides: Increasing Returns (III): Dumping and External
 uid: e20d74d6-dcc8-cc44-20fe-fa93915288fc
 ---
 This resource contains information regarding international trade lecture slides: Increasing returns (III): Dumping and external economies of scale.
-

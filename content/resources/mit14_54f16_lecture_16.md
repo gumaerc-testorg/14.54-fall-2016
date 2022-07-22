@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/5e81134f9f2e2cd5722e60d18a7b5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Trade and Inequality'
 uid: 5e81134f-9f2e-2cd5-722e-60d18a7b5fcb
 ---
 This resource contains information regarding international trade lecture slides: Trade and inequality.
-

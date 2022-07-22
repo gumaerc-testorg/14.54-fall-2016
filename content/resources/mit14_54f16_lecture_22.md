@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/31f60878608140c94297dddb537a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Trade Policy (III)'
 uid: 31f60878-6081-40c9-4297-dddb537a470d
 ---
 This resource contains information regarding international trade lecture slides: Trade policy (III).
-

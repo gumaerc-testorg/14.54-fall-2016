@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/d631ef052c79f3c3da0572241459a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Introduction'
 uid: d631ef05-2c79-f3c3-da05-72241459ae77
 ---
 This resource contains information regarding international trade lecture slides: Introduction.
-

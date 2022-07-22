@@ -6,6 +6,7 @@ file: /courses/14-54-international-trade-fall-2016/446cf63677ffc3728fa68ff2d7fe0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.54 F16 Lecture Slides: Increasing Returns to Scale'
 uid: 446cf636-77ff-c372-8fa6-8ff2d7fe0d61
 ---
 This resource contains information regarding international trade lecture slides: Increasing returns to scale.
-
