@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Consequences of increasing returns: Theory and evidence.'
 file: /courses/14-54-international-trade-fall-2016/86bb7cf1a6820b35200daffd497d5403_MIT14_54F16_Lecture_18.pdf
+file_size: 1533345
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

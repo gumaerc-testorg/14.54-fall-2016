@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Preferences and demand.'
 file: /courses/14-54-international-trade-fall-2016/4e8cda346e646a356d89fa2b45a89494_MIT14_54F16_Lecture_3.pdf
+file_size: 1199809
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

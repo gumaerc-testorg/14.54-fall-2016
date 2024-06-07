@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Specific factors model.'
 file: /courses/14-54-international-trade-fall-2016/9ecb551f04ee7f3e1218a24493b3f721_MIT14_54F16_Lecture_11.pdf
+file_size: 1674428
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

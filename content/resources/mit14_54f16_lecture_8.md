@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Ricardian trade model.'
 file: /courses/14-54-international-trade-fall-2016/d2bb3db5651cbd4fb7485bf963a27bbf_MIT14_54F16_Lecture_8.pdf
+file_size: 489313
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

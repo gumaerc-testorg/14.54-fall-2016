@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Trade and inequality.'
 file: /courses/14-54-international-trade-fall-2016/5e81134f9f2e2cd5722e60d18a7b5fcb_MIT14_54F16_Lecture_16.pdf
+file_size: 1200315
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

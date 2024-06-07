@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Introduction.'
 file: /courses/14-54-international-trade-fall-2016/d631ef052c79f3c3da0572241459ae77_MIT14_54F16_Lecture_1.pdf
+file_size: 586397
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

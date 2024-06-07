@@ -2,6 +2,7 @@
 content_type: resource
 description: This files contains the information regarding the midterm exam 2006.
 file: /courses/14-54-international-trade-fall-2016/79f890fc72e42d0f5347e0e27763f4b0_MIT14_54F16_Midterm2006.pdf
+file_size: 666982
 file_type: application/pdf
 learning_resource_types:
 - Exams
