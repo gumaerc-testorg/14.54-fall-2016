@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding recitation 2 notes.
 file: /courses/14-54-international-trade-fall-2016/d1dbc71cb69c37e0eda1202aa0550382_MIT14_54F16_Recitation2.pdf
+file_size: 144471
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding recitation 3 solutions.
 file: /courses/14-54-international-trade-fall-2016/4a9aade67a8fa3592d3628072a3effaf_MIT14_54F16_SolRecitation3.pdf
+file_size: 133565
 file_type: application/pdf
 learning_resource_types:
 - Recitations
