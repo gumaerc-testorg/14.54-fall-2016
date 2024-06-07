@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Production functions.'
 file: /courses/14-54-international-trade-fall-2016/d3ca5a729578d662933f8737a3f6a630_MIT14_54F16_Lecture_10.pdf
+file_size: 1101215
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

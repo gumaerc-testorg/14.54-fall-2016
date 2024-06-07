@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Exchange economies.'
 file: /courses/14-54-international-trade-fall-2016/9ecd0f1fd3574cb7c5f2563df7c7ddcb_MIT14_54F16_Lecture_4.pdf
+file_size: 2097688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
