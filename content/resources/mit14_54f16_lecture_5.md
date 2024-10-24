@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Exchange economies (II): Welfare, inequality, and trade imbalances.'
-file: /courses/14-54-international-trade-fall-2016/eba1445ed864d8e3bab6c1d9b0c281b1_MIT14_54F16_Lecture_5.pdf
+file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/eba1445ed864d8e3bab6c1d9b0c281b1_MIT14_54F16_Lecture_5.pdf
 file_size: 444028
 file_type: application/pdf
 learning_resource_types:
