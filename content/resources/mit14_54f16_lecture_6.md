@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: "Standard" trade models.'
-file: /courses/14-54-international-trade-fall-2016/813a16da406b8070e4a61d7918f34dff_MIT14_54F16_Lecture_6.pdf
+file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/813a16da406b8070e4a61d7918f34dff_MIT14_54F16_Lecture_6.pdf
 file_size: 2035426
 file_type: application/pdf
 learning_resource_types:
