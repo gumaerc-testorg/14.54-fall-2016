@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Increasing returns (III): Dumping and external economies of scale.'
-file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/e20d74d6dcc8cc4420fefa93915288fc_MIT14_54F16_Lecture_19.pdf
+file: /courses/14-54-international-trade-fall-2016/e20d74d6dcc8cc4420fefa93915288fc_MIT14_54F16_Lecture_19.pdf
 file_size: 389063
 file_type: application/pdf
 learning_resource_types:
