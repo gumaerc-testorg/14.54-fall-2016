@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Factor mobility (I): Labor migration.'
-file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/458ce8debc4919ad416b5d3b72fa5e12_MIT14_54F16_Lecture_23.pdf
+file: /courses/14-54-international-trade-fall-2016/458ce8debc4919ad416b5d3b72fa5e12_MIT14_54F16_Lecture_23.pdf
 file_size: 532124
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Trade policy (I): Tariffs.'
-file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/827530e787786fd656a98a585e58c86e_MIT14_54F16_Lecture_20.pdf
+file: /courses/14-54-international-trade-fall-2016/827530e787786fd656a98a585e58c86e_MIT14_54F16_Lecture_20.pdf
 file_size: 1322026
 file_type: application/pdf
 learning_resource_types:
