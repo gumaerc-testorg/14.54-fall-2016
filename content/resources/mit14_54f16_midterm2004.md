@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This files contains the information regarding the midterm exam 2004.
-file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/1585ed7d40d611b2f55fc15d0951bdfc_MIT14_54F16_Midterm2004.pdf
+file: /courses/14-54-international-trade-fall-2016/1585ed7d40d611b2f55fc15d0951bdfc_MIT14_54F16_Midterm2004.pdf
 file_size: 144329
 file_type: application/pdf
 learning_resource_types:

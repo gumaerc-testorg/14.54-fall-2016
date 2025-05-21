@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Trade policy (III).'
-file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/31f60878608140c94297dddb537a470d_MIT14_54F16_Lecture_22.pdf
+file: /courses/14-54-international-trade-fall-2016/31f60878608140c94297dddb537a470d_MIT14_54F16_Lecture_22.pdf
 file_size: 1010333
 file_type: application/pdf
 learning_resource_types:
