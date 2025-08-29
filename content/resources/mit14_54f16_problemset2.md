@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 2.
-file: /courses/14-54-international-trade-fall-2016/d8704d2d871c8c7d8cec1716dfd8597c_MIT14_54F16_ProblemSet2.pdf
+file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/d8704d2d871c8c7d8cec1716dfd8597c_MIT14_54F16_ProblemSet2.pdf
 file_size: 666439
 file_type: application/pdf
 learning_resource_types:

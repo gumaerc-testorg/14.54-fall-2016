@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: Heckscher-Ohlin model of trade (I).'
-file: /courses/14-54-international-trade-fall-2016/cf70f25baa4f1d8b0468a6e078c1bdb3_MIT14_54F16_Lecture_13.pdf
+file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/cf70f25baa4f1d8b0468a6e078c1bdb3_MIT14_54F16_Lecture_13.pdf
 file_size: 739028
 file_type: application/pdf
 learning_resource_types:
