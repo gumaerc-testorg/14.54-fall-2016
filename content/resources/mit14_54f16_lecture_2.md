@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding international trade lecture
   slides: The basics.'
-file: /courses/14-54-international-trade-fall-2016/85caae2321ddd5f2a1751f72bd3ceb28_MIT14_54F16_Lecture_2.pdf
+file: /ol-ocw-studio-app/courses/14-54-international-trade-fall-2016/85caae2321ddd5f2a1751f72bd3ceb28_MIT14_54F16_Lecture_2.pdf
 file_size: 2222262
 file_type: application/pdf
 learning_resource_types:
